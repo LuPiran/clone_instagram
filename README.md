@@ -1,7 +1,7 @@
 # 📱 Social Media App - Flutter
 Este é um aplicativo de mídia social desenvolvido em Flutter que permite aos usuários criar contas, fazer postagens, curtir e comentar em postagens de amigos, seguir amigos, editar perfil e personalizar o tema do aplicativo (claro ou escuro). O projeto utiliza a arquitetura BloC/Cubit para gerenciar o estado e Firebase para autenticação e armazenamento de dados.
 
-##🌟 Funcionalidades
+## 🌟 Funcionalidades
 * 🔑 Cadastro e Login de Usuário: Crie sua conta e faça login no aplicativo.
     * 📝 Postagens:
     * ➕ Criar novos posts.
