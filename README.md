@@ -31,18 +31,14 @@ Este é um aplicativo de mídia social desenvolvido em Flutter que permite aos u
 ## 📸 Screenshots do Projeto
 ### 🔑 Autenticação
 
-<div align="center">
-   <div style="display: flex; justify-content: center; gap: 20px;"> 
-      <div> 
-         <img src="https://github.com/LuPiran/clone_instagram/blob/main/screenshots/tela_login.png" alt="Tela de Login" width="200"> 
-         <p><b>Tela de Login</b></p> 
-      </div> 
-      <div> 
-         <img src="./screenshots/tela_cadastro" alt="Tela de Registro" width="200"> 
-         <p><b>Tela de Registro</b></p> 
-      </div> 
-   </div> 
+<div align="center"> 
+   <table> <tr> 
+      <td align="center"><img src="https://github.com/LuPiran/clone_instagram/blob/main/screenshots/tela_login.png" alt="Tela de Login" width="200"><br><b>Tela de Login</b></td> 
+      <td align="center"><img src="[https://github.com/LuPiran/clone_instagram/blob/main/screenshots/tela_cadastro.png" alt="Tela de Registro" width="200"><br><b>Tela de Registro</b></td> 
+   </tr> </table> 
 </div>
+
+
 
 
 Tela de Login
