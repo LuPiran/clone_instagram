@@ -41,7 +41,7 @@ Este é um aplicativo de mídia social desenvolvido em Flutter que permite aos u
 ### 🏠 Home
 
 <div align="center"> 
-   <table> <tr> 
+   <table style="border: none;"> <tr> 
       <td align="center" style="border: none;"><img src="https://github.com/LuPiran/clone_instagram/blob/main/screenshots/home_page.png" alt="Tela de Login" width="200"><br><b>Home</b></td> 
       <td align="center" style="border: none;"><img src="https://github.com/LuPiran/clone_instagram/blob/main/screenshots/navegacao.png" alt="Tela de Registro" width="200"><br><b>Drawer de Navegação</b></td> 
    </tr> </table> 
