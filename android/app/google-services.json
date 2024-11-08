@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "18392021607",
+    "project_id": "social-app-c2ee4",
+    "storage_bucket": "social-app-c2ee4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18392021607:android:566cfdfded0cc432bff2c2",
+        "android_client_info": {
+          "package_name": "br.com.piran.clone_instagram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZyehcTbd1CG5TTf6kR1frcaJHsUFHC4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
