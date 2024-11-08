@@ -54,6 +54,7 @@ Este é um aplicativo de mídia social desenvolvido em Flutter que permite aos u
       <td align="center" style="border: none;"><img src="https://github.com/LuPiran/clone_instagram/blob/main/screenshots/add_post_page.png" alt="Tela de Login" width="200"><br><b>Nova Postagem</b></td> 
    </tr> </table> 
 </div>
+
 ### 👤 Perfil
 <div align="center"> 
    <table> <tr> 
@@ -66,6 +67,7 @@ Este é um aplicativo de mídia social desenvolvido em Flutter que permite aos u
 ### 🔍 Busca
 <img src="link_da_imagem_9" width="250">
 Tela de Busca de Usuários
+
 ### ⚙️ Configurações
 <img src="link_da_imagem_10" width="250">
 Tela de Configurações (Tema Claro/Escuro)
