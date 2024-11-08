@@ -31,10 +31,12 @@ Este é um aplicativo de mídia social desenvolvido em Flutter que permite aos u
 ## 📸 Screenshots do Projeto
 ### 🔑 Autenticação
 <p align="center">
-   <h4>Tela de Login</h4>
+   <div class="row">
+      <h4>Tela de Login</h4>
   <img src="./screenshots/tela_login.png" alt="Tela de Login" width="200" />
    <h4>Tela de Registro</h4>
   <img src="./screenshots/tela_cadastro.png" alt="Tela de Cadastro" width="200" />
+   </div>
 </p>
 
 Tela de Login
