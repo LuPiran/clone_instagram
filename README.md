@@ -28,3 +28,30 @@ Este é um aplicativo de mídia social desenvolvido em Flutter que permite aos u
   *Firebase Storage: Para armazenamento de fotos de perfil e imagens de postagens.
 *🎯 BloC/Cubit: Para gerenciamento de estado.
 *🔌 Provider: Para injeção de dependências.
+##📸 Screenshots do Projeto
+###🔑 Autenticação
+<img src="link_da_imagem_1" width="250"> <img src="link_da_imagem_2" width="250">
+
+Tela de Login
+Tela de Registro
+###🏠 Home
+<img src="link_da_imagem_3" width="250"> <img src="link_da_imagem_4" width="250">
+
+Feed de Postagens
+Drawer de Navegação
+###📝 Postagens
+<img src="link_da_imagem_5" width="250"> <img src="link_da_imagem_6" width="250">
+
+Criar Nova Postagem
+Detalhes de Postagem com Comentários
+###👤 Perfil
+<img src="link_da_imagem_7" width="250"> <img src="link_da_imagem_8" width="250">
+
+Tela de Perfil do Usuário
+Edição de Perfil
+###🔍 Busca
+<img src="link_da_imagem_9" width="250">
+Tela de Busca de Usuários
+###⚙️ Configurações
+<img src="link_da_imagem_10" width="250">
+Tela de Configurações (Tema Claro/Escuro)
