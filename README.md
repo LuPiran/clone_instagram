@@ -30,7 +30,10 @@ Este é um aplicativo de mídia social desenvolvido em Flutter que permite aos u
 * 🔌 Provider: Para injeção de dependências.
 ## 📸 Screenshots do Projeto
 ### 🔑 Autenticação
-<img src="link_da_imagem_1" width="250"> <img src="link_da_imagem_2" width="250">
+<p align="center">
+  <img src="./screenshots/tela_login.png" alt="Tela de Login" width="200" />
+  <img src="./screenshots/tela_cadastro.png" alt="Tela de Cadastro" width="200" />
+</p>
 
 Tela de Login
 Tela de Registro
