@@ -65,9 +65,17 @@ Este é um aplicativo de mídia social desenvolvido em Flutter que permite aos u
 </div>
 
 ### 🔍 Busca
-<img src="link_da_imagem_9" width="250">
-Tela de Busca de Usuários
+<div align="center"> 
+   <table> <tr> 
+      <td align="center" style="border: none;"><img src="https://github.com/LuPiran/clone_instagram/blob/main/screenshots/search_user.png" alt="Tela de Login" width="200"><br><b>Tela de Busca</b></td>
+   </tr> </table> 
+</div>
 
 ### ⚙️ Configurações
-<img src="link_da_imagem_10" width="250">
+<div align="center"> 
+   <table> <tr> 
+      <td align="center" style="border: none;"><img src="https://github.com/LuPiran/clone_instagram/blob/main/screenshots/configuracao_escuro.png" alt="Tela de Login" width="200"><br><b>Tela de Configurações Escuro</b></td>
+      <td align="center" style="border: none;"><img src="https://github.com/LuPiran/clone_instagram/blob/main/screenshots/configuracao_claro.png" alt="Tela de Login" width="200"><br><b>TTela de Configurações Claro</b></td>
+   </tr> </table> 
+</div>
 Tela de Configurações (Tema Claro/Escuro)
