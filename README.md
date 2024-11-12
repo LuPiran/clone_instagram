@@ -78,4 +78,3 @@ Este é um aplicativo de mídia social desenvolvido em Flutter que permite aos u
       <td align="center" style="border: none;"><img src="https://github.com/LuPiran/clone_instagram/blob/main/screenshots/configuracao_claro.png" alt="Tela de Login" width="200"><br><b>TTela de Configurações Claro</b></td>
    </tr> </table> 
 </div>
-Tela de Configurações (Tema Claro/Escuro)
