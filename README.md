@@ -30,33 +30,52 @@ Este é um aplicativo de mídia social desenvolvido em Flutter que permite aos u
 * 🔌 Provider: Para injeção de dependências.
 ## 📸 Screenshots do Projeto
 ### 🔑 Autenticação
-<p align="center">
-   <h4>Tela de Login</h4>
-  <img src="./screenshots/tela_login.png" alt="Tela de Login" width="200" />
-   <h4>Tela de Registro</h4>
-  <img src="./screenshots/tela_cadastro.png" alt="Tela de Cadastro" width="200" />
-</p>
 
-Tela de Login
-Tela de Registro
+<div align="center"> 
+   <table> <tr> 
+      <td align="center" style="border: none;"><img src="https://github.com/LuPiran/clone_instagram/blob/main/screenshots/tela_login.png" alt="Tela de Login" width="200"><br><b>Tela de Login</b></td> 
+      <td align="center" style="border: none;"><img src="https://github.com/LuPiran/clone_instagram/blob/main/screenshots/tela_cadastro.png" alt="Tela de Registro" width="200"><br><b>Tela de Registro</b></td> 
+   </tr> </table> 
+</div>
+
 ### 🏠 Home
-<img src="link_da_imagem_3" width="250"> <img src="link_da_imagem_4" width="250">
 
-Feed de Postagens
-Drawer de Navegação
+<div align="center"> 
+   <table> <tr> 
+      <td align="center" style="border: none;"><img src="https://github.com/LuPiran/clone_instagram/blob/main/screenshots/home_page.png" alt="Tela de Login" width="200"><br><b>Home</b></td> 
+      <td align="center" style="border: none;"><img src="https://github.com/LuPiran/clone_instagram/blob/main/screenshots/navegacao.png" alt="Tela de Registro" width="200"><br><b>Drawer de Navegação</b></td> 
+   </tr> </table> 
+</div>
+
 ### 📝 Postagens
-<img src="link_da_imagem_5" width="250"> <img src="link_da_imagem_6" width="250">
 
-Criar Nova Postagem
-Detalhes de Postagem com Comentários
+<div align="center"> 
+   <table> <tr> 
+      <td align="center" style="border: none;"><img src="https://github.com/LuPiran/clone_instagram/blob/main/screenshots/add_post_page.png" alt="Tela de Login" width="200"><br><b>Nova Postagem</b></td> 
+   </tr> </table> 
+</div>
+
 ### 👤 Perfil
-<img src="link_da_imagem_7" width="250"> <img src="link_da_imagem_8" width="250">
+<div align="center"> 
+   <table> <tr> 
+      <td align="center" style="border: none;"><img src="https://github.com/LuPiran/clone_instagram/blob/main/screenshots/profile_page.png" alt="Tela de Login" width="200"><br><b>Tela de Perfil</b></td>
+      <td align="center" style="border: none;"><img src="https://github.com/LuPiran/clone_instagram/blob/main/screenshots/edit_profile.png" alt="Tela de Login" width="200"><br><b>Tela de Editar Perfil</b></td> 
+      <td align="center" style="border: none;"><img src="https://github.com/LuPiran/clone_instagram/blob/main/screenshots/amigo_page.png" alt="Tela de Login" width="200"><br><b>Tela de Outro Perfil</b></td> 
+   </tr> </table> 
+</div>
 
-Tela de Perfil do Usuário
-Edição de Perfil
 ### 🔍 Busca
-<img src="link_da_imagem_9" width="250">
-Tela de Busca de Usuários
+<div align="center"> 
+   <table> <tr> 
+      <td align="center" style="border: none;"><img src="https://github.com/LuPiran/clone_instagram/blob/main/screenshots/search_user.png" alt="Tela de Login" width="200"><br><b>Tela de Busca</b></td>
+   </tr> </table> 
+</div>
+
 ### ⚙️ Configurações
-<img src="link_da_imagem_10" width="250">
+<div align="center"> 
+   <table> <tr> 
+      <td align="center" style="border: none;"><img src="https://github.com/LuPiran/clone_instagram/blob/main/screenshots/configuracao_escuro.png" alt="Tela de Login" width="200"><br><b>Tela de Configurações Escuro</b></td>
+      <td align="center" style="border: none;"><img src="https://github.com/LuPiran/clone_instagram/blob/main/screenshots/configuracao_claro.png" alt="Tela de Login" width="200"><br><b>TTela de Configurações Claro</b></td>
+   </tr> </table> 
+</div>
 Tela de Configurações (Tema Claro/Escuro)
